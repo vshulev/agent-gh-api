@@ -1,0 +1,4 @@
+llama-hub==0.0.40
+llama-index==0.8.52
+openai==0.28.1
+rich==13.6.0
