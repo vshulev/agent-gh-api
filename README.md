@@ -32,7 +32,7 @@ RAG provides a workaround for the limited context windows of LLMs when working w
 
 ### Automatic evaluation
 
-First and foremost, in order to make this agent production-ready, we need to pick a set of automatic evaluation metrics that will ensure the agent generates helpful and truthful outputs. One possible solution would be to given a set of questions ask humans to generate reference answers to those questions. These references can then be compared against agent outputs using machine tranlsation metrics such as BELU or COMET.
+First and foremost, in order to make this agent production-ready, we need to pick a set of automatic evaluation metrics that will ensure the agent generates helpful and truthful outputs. One possible solution would be to, given a set of questions, ask humans to generate reference answers to those questions. These references can then be compared against agent outputs using machine translation metrics such as BLEU or COMET.
 
 ### Choice of LLM
 
